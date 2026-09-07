@@ -10,4 +10,12 @@ public class Repas {
 		 
 	}
 	
+	public void setNumero(){
+		this.numero = numero 
+	}
+	
+	public int getNumero {
+		return numero ;
+	}
+	
 }
