@@ -10,12 +10,12 @@ public class Repas {
 		 
 	}
 	
-	public void setNumero(){
+	public void setNumero(int numero){
 		this.numero = numero 
 	}
 	
 	public int getNumero {
-		return numero ;
+		this.numero = numero ;
 	}
 	
 }
